@@ -411,3 +411,7 @@ ul.social li {
 	bottom: 5%;
 	left: 45%;
 }
+
+.projectbox {
+	min-height: 865px !important;
+}
