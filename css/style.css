@@ -260,22 +260,6 @@ header.major h2 {
 	position: relative;
 }
 
-.sourcebox {
-	position: absolute;
-	bottom: 5%;
-	left: 5%;
-}
-
-.sitebox {
-	position: absolute;
-	bottom: 5%;
-	left: 25%;
-}
-
-.projectbox {
-	min-height: 835px !important;
-}
-
 .profilebox {
 	background: #ffffff;
 	width: 35%;
